@@ -1,5 +1,6 @@
 export default {
-  introduction: "Introduction",
+index, "Welcome"  
+introduction: "Introduction",
   "get-start-document": "Get Started",
 
   testing: { type: "separator", title: "Testing" },
