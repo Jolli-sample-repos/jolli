@@ -1,5 +1,5 @@
 export default {
-index, "Home",
+index, "New Welcome",
 introduction: "Introduction",
   "get-start-document": "Get Started",
 
